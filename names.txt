@@ -1,5 +1,6 @@
 1. koushik
 <<<<<<< HEAD
+<<<<<<< HEAD
 73. Shubham
 =======
 34. aditya
@@ -40,3 +41,16 @@
 
 
 73. SHubham Sahu
+=======
+11. Piyush Khanna
+29. Akshay Joshi
+34. aditya
+17.Himanshu Dhakrey
+29. Akshay Joshi
+
+>>>>>>> dfa02bee0bddf0b964969a466765927ef2be6be7
+
+
+
+73. Shubham SAhu 
+
