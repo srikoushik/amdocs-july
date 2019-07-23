@@ -1,2 +1,6 @@
 1. koushik
+<<<<<<< HEAD
 29. Akshay Joshi
+=======
+34. aditya
+>>>>>>> 35fde36921318c9f27e727e7658cb9cfed499395
