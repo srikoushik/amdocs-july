@@ -1,10 +1,16 @@
 1. koushik
-2. Akshay
-10. Devesh
-34. aditya
-2. Manoj
-11. Piyush Khanna
-29. Akshay Joshi
-34. aditya
+2. suraj
+3. Shashwati
+4. Devesh
+5. Manoj
+6. aditya
+7. Himanshu Dhakrey
+8. Piyush Khanna
+9. Akshay Joshi
+10.Sayali Sant
+11.Aniket
+12.Jaya reddy
+13.Saurav 
+14. Akshay Jain
 
 
