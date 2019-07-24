@@ -1,14 +1,12 @@
 1. koushik
+10. Devesh
+34. aditya
 2. Manoj
 29. Akshay Joshi
 34. aditya
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 3.jaya
-=======
->>>>>>> 35fde36921318c9f27e727e7658cb9cfed499395
->>>>>>> 2e28d39cc2e2f9bb915528b2d14880ff10373a91
-=======
+
 17.Himanshu Dhakrey
 11. Piyush
 11. Piyush Khanna
@@ -17,4 +15,4 @@
 17.Himanshu Dhakrey
 29. Akshay Joshi
 
->>>>>>> f12495dcdd12849a90788a0d05776ac46b29394a
+
